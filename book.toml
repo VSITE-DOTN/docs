@@ -1,0 +1,19 @@
+[book]
+authors = ["Paolo Stabile"]
+description = "Labaratorijske vježbe"
+language = "en"
+multilingual = false
+src = "src"
+title = "Napredno .NET programiranje - DOTN"
+
+[output.html]
+additional-css = ["custom/custom.css", 'theme/catppuccin.css', 'theme/catppuccin-admonish.css']
+additional-js = ["custom/custom.js"]
+default-theme = "navy"
+git-repository-url = "https://github.com/VSITE-DOTN/docs"
+git-repository-icon = "fa-github"
+
+[preprocessor]
+
+[preprocessor.catppuccin]
+assets_version = "2.1.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
