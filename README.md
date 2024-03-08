@@ -1,4 +1,12 @@
 # [Napredno .NET programiranje - DOTN](https://vsite-dotn.github.io/docs/)
+<div class="inline-block">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+</div>
+
 
 ## Općenito
 
@@ -24,7 +32,7 @@ TODO
 
 ## Labaratorijske vježbe, zadaće i projekti
 
-- ZadaćA ili manji projekt mogu bit dodijeljeni nakon labaratorijske vježbe, s rokom od 3 tjedan dana
+- Zadaća ili manji projekt mogu bit dodijeljeni nakon labaratorijske vježbe, s rokom od 3 tjedana
 - Za svaku zadaću ili projekt dobit ćete feedback unutar nekoliko dana
 - Pitajte tijekom rješavanja!
 - Zadaće i projekti se predavaju kroz GitHub Classroom
