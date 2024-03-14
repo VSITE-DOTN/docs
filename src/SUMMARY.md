@@ -4,7 +4,7 @@
 [ROADMAP](roadmap.md)
 [KNOWLEDGE CHECK](knowledge_check.md)
 
-- [LAB1](lab1/introduction.md)
+- [LAB1](lab1/lab1.md)
 
   - [Introduction](lab1/section1.md)
   - [Repository - Service Pattern](lab1/section2.md)
